@@ -10,12 +10,13 @@ This was definitely a challenging project considering the deadline I set for mys
 
 ### Description
 
-Travelix is a full-fledged and responsive travel companion that dynamically shows the best restaurants, hotels and attractions based on your or your searched location. On load it displays your current location, but you can search for your future destinations in advance to get familiar with your options. Travelix displays each result in an imformative card that contains the image of the location, links, previous awards and ratings.
+Travelix is a full-fledged and responsive travel companion that dynamically shows the best restaurants, hotels and attractions based on your or your searched location. On load it displays your current location, but you can search for your future destinations in advance to get familiar with your options. Travelix displays each result in an informative card that contains the image of the location, links, previous awards and ratings.
 
 ### Features
 
 - Map is loaded with the user's current location
 - Users can select their desired type of location (restaurants, hotels, attractions) from a dropdown menu
+- Users can see the local weather on the map
 - Users can filter results based on their ratings
 - Users can search for any desired location and see results accordingly
 - Users can move around on the map and see the results dynamically update
@@ -23,7 +24,6 @@ Travelix is a full-fledged and responsive travel companion that dynamically show
 
 ### Technologies used
 
-- JSX
 - Material UI
 - React
 - RapidAPI
