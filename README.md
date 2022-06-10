@@ -6,7 +6,7 @@ This was definitely a challenging project considering the deadline I set for mys
 
 ---
 
-### [See live version](https://travelix-app-ruben.netlify.app/)
+### [See live version](https://travelix-app.netlify.app/)
 
 ### Description
 
